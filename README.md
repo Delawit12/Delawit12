@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm MEKDELAWIT  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delawit12&label=Profile%20views&color=0e75b6&style=flat" alt="delawit12" /> </p>
 
-- 🔭 I’m currently working on **Smart-Track🏥**
-
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Node.js**
