@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **delawitgetu@gmail.com**
 
-- 💻 Check out my portfolio: [Live Portfolio](https://your-portfolio-link.netlify.app)
+- 💻 Check out my portfolio: [Live Portfolio](https://delawitgetu.netlify.app/)
 
 
 
