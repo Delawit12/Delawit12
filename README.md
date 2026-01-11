@@ -26,11 +26,13 @@
 <br/>
 <hr/>
 
+# 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=delawit12&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="delawit12" /></p>
-
 
 <div align="right">
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=delawit12&theme=material-palenight)](https://github.com/Delawit12)
+![](https://github-readme-stats.vercel.app/api?username=delawit12&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=delawit12&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=delawit12&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
