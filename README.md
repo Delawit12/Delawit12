@@ -29,8 +29,10 @@
 # 📊 GitHub Stats:
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=delawit12&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="delawit12" /></p> -->
 <div align="right">
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=delawit12&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   </div>
+  
 <div align="left">
 
 
