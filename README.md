@@ -36,6 +36,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=delawit12&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://nirzak-streak-stats.vercel.app/?user=delawit12&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=delawit12&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 </div>
 
