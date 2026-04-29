@@ -65,7 +65,7 @@
   
 <p style="display: flex; justify-content: start; gap: 10px;">
     <a href="https://github.com/delawit12?tab=repositories">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=delawit12&theme=gotham&show_icons=true&count_private=true&cache_seconds=0&v=2" />
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=delawit12&theme=gotham&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&v=3" />
     </a>
 </p>
 
