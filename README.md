@@ -64,7 +64,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=delawit12&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 <p style="display: flex; justify-content: start; gap: 10px;">
-    <a href="https://github.com/sikar16?tab=repositories">
+    <a href="https://github.com/delawit12?tab=repositories">
         <img src="https://github-readme-stats-one-bice.vercel.app/api?username=delawit12&theme=gotham&show_icons=true&count_private=true&cache_seconds=0&v=2" />
     </a>
 </p>
